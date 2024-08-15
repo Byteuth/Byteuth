@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
-
+<br>
 <h3 align="left">🔗 Some useful links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/%F0%9F%8C%BB-francisco-shaul-1314b6172/" target="blank">
