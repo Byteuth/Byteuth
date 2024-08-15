@@ -7,8 +7,8 @@
       <p>
       </div>
 <p align="left">
- - 🔭 I’m currently working on <strong>3D web development</strong> <br>
- - 🌱 I’m currently learning  <strong>ThreeJs, R3F, Cannon-es, Rapier, Blender</strong> <br>
+ - 🔭 Working on <strong>3D web development</strong> <br>
+ - 🌱 Learning  <strong>ThreeJs, R3F, Cannon-es, Rapier, Blender</strong> <br>
  - 📫 How to reach me <strong>byteuth@gmail.com</strong>
 </p>
 <br>
