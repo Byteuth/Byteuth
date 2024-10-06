@@ -51,8 +51,21 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
+  <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pmndrs/branding/master/logo.svg" alt="react-three-fiber" width="40" height="40"/>
+  </a>
+  <a href="https://schteppe.github.io/cannon.js/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/86dead0f-f34d-44ae-8709-be37aacffd9d" alt="cannon-es" width="40" height="40"/>
+  </a>
+  <a href="https://www.khronos.org/webgl/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/141be30a-4388-4bf4-b31b-5d6c27e82c6a" alt="webGL" width="40" height="40"/>
+  </a>
 </p>
-<br>
+
+
+
+
+
 <h3 align="left">🔗 Some useful links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/%F0%9F%8C%BB-francisco-shaul-1314b6172/" target="blank">
