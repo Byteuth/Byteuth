@@ -8,7 +8,7 @@
       </div>
 <p align="left">
  - 🔭 Working on <strong>3D web development</strong> <br>
- - 🌱 Learning  <strong>ThreeJs, R3F, Cannon-es, Rapier, Blender, Unreal Engine5, C#</strong> <br>
+ - 🌱 Learning  <strong>  R3F, ThreeJs, R3F, Cannon-es, Blender, C# </strong> <br>
  - 📫 How to reach me <strong>byteuth@gmail.com</strong>
 </p>
 <br>
