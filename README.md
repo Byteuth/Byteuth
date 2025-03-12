@@ -1,70 +1,25 @@
-<h1 align="center">Hi 👋, I'm Byteuth - Full Stack Developer</h1>
-
 
 <table >
   <tr>
     <td>
       <p>
       </div>
-<p align="left">
- - 🔭 Working on <strong>3D web development</strong> <br>
- - 🌱 Learning  <strong>C#, TypeScript, Blender </strong> <br>
- - 📫 How to reach me <strong>byteuth@gmail.com</strong>
-</p>
 <br>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<div align="center">
+    <p>
+        <a href="https://francisco-dev.vercel.app/" target="_blank"><b>🌻 Portfolio</b></a> |
+        <a href="https://www.linkedin.com/in/francisco-shaul-1314b6172/" target="_blank"><b>🧳 Linkedin</b></a> |
+        <a href="https://francisco-dev.vercel.app/cv.pdf" target="_blank"><b>📜 Resume</b></a> 
+    </p>
+</div>
+<br>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/branding/master/logo.svg" alt="react-three-fiber" width="40" height="40"/>
-  </a>
-  <a href="https://schteppe.github.io/cannon.js/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/86dead0f-f34d-44ae-8709-be37aacffd9d" alt="cannon-es" width="40" height="40"/>
-  </a>
-  <a href="https://www.khronos.org/webgl/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/141be30a-4388-4bf4-b31b-5d6c27e82c6a" alt="webGL" width="40" height="40"/>
-  </a>
+  <h3 align="left">💻 Languages and Tools:</h3>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=ts,js,c,cs,tailwind,nextjs,react,threejs,docker,unity,express,jest,firebase,prisma,mongdb,mysql,postgres,blender,autocad,ps,gcp,obsidian,vercel,nodejs,bash,git,linux,ubuntu" />
+	</a>
 </p>
-
-
-
-
 
 <h3 align="left">🔗 Some useful links:</h3>
 <p align="left">
@@ -76,35 +31,13 @@
   </a>
 </p>
 
-
+<br>
   </p>
   </td>
   <td>
-    <pre><p align="center">
-                    .:loc,.                     
-                .'cxKNNNNXOo;.                  
-             .;oOXNNNNNNNNNNX0xc'.              
-         .'cx0XNNNNNNNNNNNNNNNNNXOo;.           
-      .;okKNNNNNNNNNNNNNNNNNNNNNNNNX0xc'.       
-   .;d0XNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKkl'     
-   .:ok0XNNNNNNNNNNNNNNNNNNNNNNNNNNNNXKKd.    
-   .'.';cdOKNNNNNNNNNNNNNNNNNNNNNXXK00OOo.    
-   .'.....':ok0XNNNNNNNNNNNNNNNNXK00OOOOOOo.    
-   .'........';cdOKNNNNNNNNNXXK00OOOOOOOOOo.    
-   .'............,:ok0XNNXKK0OOOOOOOOOOOOOo.    
-   .'...............';dO00OOOOOOOOOOOOOOOOo.    
-   .'.................ckOOOOOOOOOOOOOOOOOOo.    
-   .'.................cxkOOOOOOOOOOOOOOOOOo.    
-   .'.................cxkOOOOOOOOOOOOOOOOOo.    
-   .'.................cxkOOOOOOOOOOOOOOOOOo.    
-   .'.................cxkOOOOOOOOOOOOOOOOkc.    
-     .................ckkOOOOOOOOOOOOOxl;.      
-         .............cxkOOOOOOOOOkdc,.         
-            ..........cxkOOOOOOxo:.             
-               .......cxkOOkdc,.                
-                   ...cxxo:'.                    
-...
-  </p></pre>
+ <p align="center">
+        <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3ODk2MjcsIm5iZiI6MTc0MTc4OTMyNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDE0MjIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OTc1NzM0OWUwNDBjMDNlZmI1ZjY2YjZkMDcyODI5ZTA4MWNjYTY3YjFkNzQ3MWQ0ZDU3YTBjOTE3NTM4NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VnXgJvydmlWg0C3PNMeLLq9tcmg8Vno7p-FKUTZ15Y8" width="300" alt="GIF">
+      </p>
   </td>
   </tr>
 </table>
