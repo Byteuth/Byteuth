@@ -15,10 +15,11 @@
 <div align="center">
 
 ```
-   ╱|、          "I build interfaces that live in three dimensions —
- (˚ˎ 。7           where code meets light, geometry, and motion."
-  |、˜〵                                                          
-  じしˍ,)ノ                                                       
+    
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎   ╱|、‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎    (˚ˎ 。7     "I build interfaces that live in three dimensions
+‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎‎  |、˜〵       where code meets light, geometry, and motion."
+‎ じしˍ,)ノ                                     
 ```
 
 </div>
