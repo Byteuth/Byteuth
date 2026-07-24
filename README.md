@@ -44,12 +44,6 @@
 
 <div align="center">
 
-### 📡 &nbsp;Currently
-
-`Building immersive, performant web experiences — one shader at a time.`
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
